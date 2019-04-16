@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Enemy
+  - Ammo
+  - fin
+  - Door
+  - Wall
+  - follow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - walls
+  - Players
+  - Enemy
+  - Weapon
+  - Ammo
+  - doors
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3060905683
+    locked: 0
+  - name: obstacles
+    uniqueID: 3419300245
+    locked: 0
+  - name: hero
+    uniqueID: 2607190641
+    locked: 0
+  - name: New Layer
+    uniqueID: 590175437
+    locked: 0
+  - name: ui
+    uniqueID: 1481717207
+    locked: 0
